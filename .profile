@@ -46,6 +46,3 @@ export SPARK_HOME=/home/impadmin/opensource/spark-1.6
 # Update PATH variable to include all libraries
 export PATH=$PATH:$JAVA_HOME/bin:$MAVEN_HOME/bin:$HADOOP_HOME/bin:$SQOOP_HOME/bin:$TOMCAT_HOME/bin:$HIVE_HOME/bin:$SPARK_HOME/bin:$ANT_HOME/bin:$SBT_HOME/bin
 
-
-# Set IDW variables
-export IDW_WMG_HOME=/var/lib/idw_wmg
