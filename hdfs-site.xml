@@ -21,12 +21,13 @@
         <name>dfs.replication</name>
         <value>1</value>
     </property>
-   <property> 
-      <name>dfs.name.dir</name> 
-      <value>file:///home/impadmin/opensource/hadoop-2.6.0/hadoop-infra/hdfs/namenode</value> 
-   </property> 
-   <property> 
+   <property>
+      <name>dfs.name.dir</name>
+      <value>file:///home/impadmin/opensource/hadoop-2.7.0/hadoop-infra/hdfs/namenode</value>
+   </property>
+   <property>
       <name>dfs.data.dir</name>
-      <value>file:///home/impadmin/opensource/hadoop-2.6.0/hadoop-infra/hdfs/datanode</value> 
+      <value>file:///home/impadmin/opensource/hadoop-2.7.0/hadoop-infra/hdfs/datanode</value>
    </property>
 </configuration>
+
