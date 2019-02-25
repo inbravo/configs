@@ -1,0 +1,8 @@
+Hive 2 startup: 
+
+hive --service hiveserver2 --hiveconf hive.server2.thrift.port=10000 --hiveconf hive.root.logger=INFO,console &
+
+Hadoop/yarn start/stop:
+
+sbin/start-dfs.sh and sbin/stop-dfs.sh
+Yarn start/stop: sbin/start-yarn.sh and sbin/stop-yarn.sh
