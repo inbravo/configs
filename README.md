@@ -1,2 +1,2 @@
 # Configuration file for various frameworks
-default config for quick hadoop/hive/mysql setup
+- [Config for hadoop/hive/mysql setup](https://github.com/inbravo/configs/blob/master/hadoop-commands.md)
