@@ -1,4 +1,8 @@
-## Hive setup:
+## Hive Setup
+
+- [Install MySQL as a metastore for Hive](https://dzone.com/articles/how-configure-mysql-metastore)
+- [Update [hive-installation-diretory]/conf/core-site.xml](https://github.com/inbravo/hadoop-conf/blob/master/core-site.xml)
+
 ## Hive lifecycle: 
 
 ```
