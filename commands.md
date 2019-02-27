@@ -6,6 +6,7 @@
 ## Hive lifecycle: 
 
 ```
+hive --service metastore
 hive --service hiveserver2 --hiveconf hive.server2.thrift.port=10000 --hiveconf hive.root.logger=INFO,console &
 ```
 
